@@ -43,7 +43,11 @@
 }
 
 /* 8. exercice-all-1 */
-
+.exercice-all-1 .container {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
 
 /* 9. exercice-all-2 */
 
